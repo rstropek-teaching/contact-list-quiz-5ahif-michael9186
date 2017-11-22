@@ -1,0 +1,11 @@
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\bin\Release\netcoreapp2.0\ContactListAPI.deps.json
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\bin\Release\netcoreapp2.0\ContactListAPI.runtimeconfig.json
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\bin\Release\netcoreapp2.0\ContactListAPI.runtimeconfig.dev.json
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\bin\Release\netcoreapp2.0\ContactListAPI.dll
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\bin\Release\netcoreapp2.0\ContactListAPI.pdb
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\obj\Release\netcoreapp2.0\ContactListAPI.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\obj\Release\netcoreapp2.0\ContactListAPI.csproj.CoreCompileInputs.cache
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\obj\Release\netcoreapp2.0\ContactListAPI.AssemblyInfoInputs.cache
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\obj\Release\netcoreapp2.0\ContactListAPI.AssemblyInfo.cs
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\obj\Release\netcoreapp2.0\ContactListAPI.dll
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\obj\Release\netcoreapp2.0\ContactListAPI.pdb
