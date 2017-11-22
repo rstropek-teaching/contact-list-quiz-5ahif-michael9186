@@ -61,6 +61,11 @@ namespace ContactListAPI.Services
 
         }
 
+        public List<Person> GetList()
+        {
+            return this.persons;
+        }
+
         public Person GetLast()
         {
             return this.persons.Last();
