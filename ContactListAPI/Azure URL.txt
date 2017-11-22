@@ -1,0 +1,3 @@
+Unter dieser URL ist die API auf Azure zu erreichen:
+
+http://contactlistapi20171122084221.azurewebsites.net/contacts
