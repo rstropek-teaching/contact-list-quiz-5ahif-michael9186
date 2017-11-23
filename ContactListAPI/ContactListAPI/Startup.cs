@@ -37,9 +37,10 @@ namespace ContactListAPI
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseDefaultFiles();
-            app.UseStaticFiles();
-            app.UseMvc();
+            app.UseStatusCodePages();
+
+            app.UseMvcWithDefaultRoute();
+            
         }
     }
 }

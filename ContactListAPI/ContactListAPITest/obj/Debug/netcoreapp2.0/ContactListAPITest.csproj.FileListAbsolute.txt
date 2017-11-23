@@ -1,0 +1,16 @@
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\bin\Debug\netcoreapp2.0\ContactListAPITest.deps.json
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\bin\Debug\netcoreapp2.0\ContactListAPITest.runtimeconfig.json
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\bin\Debug\netcoreapp2.0\ContactListAPITest.runtimeconfig.dev.json
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\bin\Debug\netcoreapp2.0\ContactListAPITest.dll
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\bin\Debug\netcoreapp2.0\ContactListAPITest.pdb
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\bin\Debug\netcoreapp2.0\ContactListAPI.dll
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\bin\Debug\netcoreapp2.0\ContactListAPI.pdb
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\obj\Debug\netcoreapp2.0\ContactListAPITest.csprojResolveAssemblyReference.cache
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\obj\Debug\netcoreapp2.0\ContactListAPITest.csproj.CoreCompileInputs.cache
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\obj\Debug\netcoreapp2.0\ContactListAPITest.AssemblyInfoInputs.cache
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\obj\Debug\netcoreapp2.0\ContactListAPITest.AssemblyInfo.cs
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\obj\Debug\netcoreapp2.0\ContactListAPITest.dll
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPITest\obj\Debug\netcoreapp2.0\ContactListAPITest.pdb

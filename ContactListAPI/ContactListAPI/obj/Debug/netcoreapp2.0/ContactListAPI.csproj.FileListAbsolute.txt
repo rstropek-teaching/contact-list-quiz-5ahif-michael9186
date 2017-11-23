@@ -9,3 +9,14 @@ d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\obj\Debug
 d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\bin\Debug\netcoreapp2.0\ContactListAPI.pdb
 d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\obj\Debug\netcoreapp2.0\ContactListAPI.dll
 d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\obj\Debug\netcoreapp2.0\ContactListAPI.pdb
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\bin\Debug\netcoreapp2.0\ContactListAPI.deps.json
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\bin\Debug\netcoreapp2.0\ContactListAPI.runtimeconfig.json
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\bin\Debug\netcoreapp2.0\ContactListAPI.runtimeconfig.dev.json
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\bin\Debug\netcoreapp2.0\ContactListAPI.dll
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\bin\Debug\netcoreapp2.0\ContactListAPI.pdb
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\obj\Debug\netcoreapp2.0\ContactListAPI.csprojResolveAssemblyReference.cache
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\obj\Debug\netcoreapp2.0\ContactListAPI.csproj.CoreCompileInputs.cache
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\obj\Debug\netcoreapp2.0\ContactListAPI.AssemblyInfoInputs.cache
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\obj\Debug\netcoreapp2.0\ContactListAPI.AssemblyInfo.cs
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\obj\Debug\netcoreapp2.0\ContactListAPI.dll
+D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI\obj\Debug\netcoreapp2.0\ContactListAPI.pdb
