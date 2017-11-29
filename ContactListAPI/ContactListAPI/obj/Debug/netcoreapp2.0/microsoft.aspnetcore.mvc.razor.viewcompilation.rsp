@@ -1,5 +1,13 @@
-D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI
+d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI
 --output-path=obj\Debug\netcoreapp2.0\
 --application-name=ContactListAPI
---content-root=D:\Users\Michael\Source\Repos\contact-list-quiz-5ahif-michael9186\ContactListAPI\ContactListAPI
---file=
+--content-root=d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI
+--file=d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\Views\Contact\Add.cshtml
+--file=d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\Views\Contact\Delete.cshtml
+--file=d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\Views\Contact\FindByName.cshtml
+--file=d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\Views\Contact\GetAll.cshtml
+--file=d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\Views\Shared\Error.cshtml
+--file=d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\Views\Shared\_Layout.cshtml
+--file=d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\Views\_ViewImports.cshtml
+--file=d:\documents\visual studio 2017\Projects\ContactListAPI\ContactListAPI\Views\_ViewStart.cshtml
